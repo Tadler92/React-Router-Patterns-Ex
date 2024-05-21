@@ -1,0 +1,9 @@
+.ColorDetails {
+  width: 100vw;
+  height: 100vh;
+  padding-top: 50px;
+  color: white;
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
